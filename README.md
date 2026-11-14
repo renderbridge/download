@@ -6,10 +6,10 @@
 
 | Sistema | Download |
 |---|---|
-| **Windows 10/11** | **[⬇ RenderBridge-Setup.exe](https://github.com/fagnerpn/Render_Bridge-releases/releases/latest/download/RenderBridge-Setup.exe)** |
-| **Mac** (Apple Silicon — M1, M2, M3, M4…; macOS 11+) | **[⬇ RenderBridge-mac.dmg](https://github.com/fagnerpn/Render_Bridge-releases/releases/latest/download/RenderBridge-mac.dmg)** |
+| **Windows 10/11** | **[⬇ RenderBridge-Setup.exe](https://github.com/renderbridge/download/releases/latest/download/RenderBridge-Setup.exe)** |
+| **Mac** (Apple Silicon — M1, M2, M3, M4…; macOS 11+) | **[⬇ RenderBridge-mac.dmg](https://github.com/renderbridge/download/releases/latest/download/RenderBridge-mac.dmg)** |
 
-Versões anteriores: [Releases](https://github.com/fagnerpn/Render_Bridge-releases/releases).
+Versões anteriores: [Releases](https://github.com/renderbridge/download/releases).
 
 ## Instalar no Windows
 
